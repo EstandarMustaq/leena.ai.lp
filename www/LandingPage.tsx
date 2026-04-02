@@ -874,7 +874,7 @@ export default function LandingPage() {
         </footer>
       </section>
       <a
-        href="https://wa.me/258xxxxxxxx"
+        href="/api/whatsapp"
         target="_blank"
         rel="noreferrer"
         className="group fixed bottom-6 right-6 inline-flex items-center gap-2 rounded-full bg-emerald-700 px-4 py-3 text-sm font-semibold text-white shadow-xl transition hover:-translate-y-0.5"

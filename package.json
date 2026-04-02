@@ -1,5 +1,6 @@
 {
-  "name": "leena",
+  "name": "leena_assistant",
+  "description": "Leena é uma assistente de vendas criada para apoiar comerciantes de mercados informais na decisão de compra para revenda. O foco é tornar decisões rápidas e assertivas, reduzindo desperdício e aumentando a margem.",
   "private": true,
   "version": "0.1.0",
   "scripts": {
@@ -8,6 +9,16 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therakius/leena.git"
+  },
+  "homepage": "https://leena-ai-lp.vercel.app",
+  "keywords": [
+    "ai-agents, ai-commerce-real-state"
+  ],
+  "author": "therakius, EstandarMustaq, IlsseZita the Wakanda Code",
+  "license": "MIT",
   "dependencies": {
     "@iojcde/locomotive-scroll": "^5.0.0-beta.15",
     "framer-motion": "^10.18.0",
