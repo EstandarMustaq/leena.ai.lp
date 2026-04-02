@@ -100,9 +100,7 @@ export default function LandingPage() {
               <p className="text-lg font-semibold tracking-tight text-neutral-800 dark:text-neutral-100">
                 Leena
               </p>
-              <p className="text-xs text-zinc-500 dark:text-zinc-400">
-                Assistente de Compra Diária
-              </p>
+              <p className="text-xs/loose text-zinc-500 dark:text-zinc-400">Assistente Diário</p>
             </div>
           </div>
 
@@ -152,7 +150,7 @@ export default function LandingPage() {
           <div className="hidden items-center gap-3 md:flex">
             <ThemeToggle />
             <a
-              href="mailto:suporte@leena.co.mz"
+              href="mailto:suporte@leena.chat"
               className="inline-flex items-center gap-2 rounded-full bg-zinc-200 px-5 py-2.5 text-sm font-medium text-zinc-700"
             >
               Pedir ajuda <ArrowRight className="h-4 w-4" />
@@ -754,7 +752,7 @@ export default function LandingPage() {
 
               <div className="mt-8 flex flex-col gap-4 sm:flex-row">
                 <a
-                  href="mailto:suporte@leena.co.mz"
+                  href="mailto:suporte@leena.chat"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3.5 text-sm font-semibold text-emerald-800 shadow-lg transition hover:-translate-y-0.5"
                 >
                   Pedir ajuda <ArrowRight className="h-4 w-4" />
@@ -862,7 +860,7 @@ export default function LandingPage() {
                 Parcerias: evolution@wakandacode.co.mz
               </p>
               <p className="text-sm text-slate-600 dark:text-slate-300">
-                Inquéritos: suporte@leena.co.mz
+                Inquéritos: suporte@leena.chat
               </p>
               <p className="text-sm text-slate-600 dark:text-slate-300">Maputo · Moçambique</p>
             </div>
