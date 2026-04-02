@@ -57,8 +57,8 @@ Interaja com a Leena via **WhatsApp**:
 ## 🔗 Links Úteis
 
 - 🏠 [Repositório Principal](https://github.com/therakius/leena)
-- 💼 Fale conosco via [WhatsApp](https://wa.me/258840000000)
-- 📧 Contato: [suporte@leena.co.mz](suporte@leena.co.mz)
+- 💼 Fale conosco via [WhatsApp](https://wa.me/258874588177)
+- 📧 Contato: [suporte@leena.chat](suporte@leena.chat)
 
 ## 📄 Licença
 
